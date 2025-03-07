@@ -37,4 +37,15 @@ for int i=1; i<=10; i++
 for int i=1; i<=11; i++
 [10,20]
 num>=10 and num<=20 
+(10,30)
+
+5 steps to solve a problem 
+-->understand a problem .Recognize the i/p data and the relavent information .isolate the unwanted data and info.
+-->find the solution with all possible ways ,trial and error method ,applying an algorithm etc.
+-->write down the algorithms
+   step by step procedure to solve the problem 
+   each step must be atomic (SRP),simple and finite 
+-->write the fake code (pseudocode)
+-->code it    
+
 
