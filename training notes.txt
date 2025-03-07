@@ -1,3 +1,36 @@
 mtd competitive program training 
 
 DAY1 THURSDAY 06-03-2025
+
+GIT COMMANDS 
+//git add.
+//git commit -m
+//git commit -m "notes of mtd training added 
+//git push origin main
+
+
+#include<stdio.h>
+int main ()
+{
+    int  intnum = 0;
+    puts("enter a number to check if it is even");
+    scanf("%d",&intnum);
+    if(intnum % 2==0)
+      print("%d is even ",intnum );
+}
+
+DAY 2 07-03-2025
+
+-->arthematic operators : + - * /
+-->all are binary operators 
+-->i/p are numbers
+-->o/p are numbers 
+-->used with infix notation 
+-->to perform any arthematic operation , DT of both the operands must be same 
+-->left to right associtivity w.r.t resding the values/expressions
+-->for the calculation to happen,the user/programmer given infix expression must be converted to postfix.
+-->the operators have different heirarchy (precedence)
+----------------------------------------------------------------
+relational operators :>< == != >= <=
+
+for int i=1; i<=10; i++
