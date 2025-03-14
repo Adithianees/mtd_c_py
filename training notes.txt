@@ -46,6 +46,9 @@ num>=10 and num<=20
    step by step procedure to solve the problem 
    each step must be atomic (SRP),simple and finite 
 -->write the fake code (pseudocode)
--->code it    
+-->code it 
+
+8c37cc9b01e420a13db9eb0c5e100ff5
+key
 
 
